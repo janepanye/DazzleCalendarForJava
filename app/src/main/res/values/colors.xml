@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="red">#ff0000</color><!-- 红色 -->
+    <color name="white">#ffffff</color><!-- 白色 -->
+    <color name="bangNavBarColor">#23b4ff</color><!--所有导航头部颜色-->
+    <color name="black">#000000</color><!-- 黑色 -->
+    <color name="lightGray">#ffa19d94</color><!--浅灰色-->
+</resources>
